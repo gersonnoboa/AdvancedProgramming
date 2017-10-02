@@ -1,0 +1,7 @@
+C:\Users\Gerson Noboa\Google Drive\Documentos\UT\S1\AP\Bonus\Data\FsLab.Templates-journal\bin\Debug\FsLab_Journal.XML
+C:\Users\Gerson Noboa\Google Drive\Documentos\UT\S1\AP\Bonus\Data\FsLab.Templates-journal\bin\Debug\FsLab.Journal.exe
+C:\Users\Gerson Noboa\Google Drive\Documentos\UT\S1\AP\Bonus\Data\FsLab.Templates-journal\bin\Debug\FsLab.Journal.pdb
+C:\Users\Gerson Noboa\Google Drive\Documentos\UT\S1\AP\Bonus\Data\FsLab.Templates-journal\bin\Debug\FSharp.Core.dll
+C:\Users\Gerson Noboa\Google Drive\Documentos\UT\S1\AP\Bonus\Data\FsLab.Templates-journal\bin\Debug\FSharp.Core.xml
+C:\Users\Gerson Noboa\Google Drive\Documentos\UT\S1\AP\Bonus\Data\FsLab.Templates-journal\obj\Debug\FsLab.Journal.exe
+C:\Users\Gerson Noboa\Google Drive\Documentos\UT\S1\AP\Bonus\Data\FsLab.Templates-journal\obj\Debug\FsLab.Journal.pdb
